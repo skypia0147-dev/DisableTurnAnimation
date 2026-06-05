@@ -1,0 +1,20 @@
+# Build
+build/
+bin/
+obj/
+out/
+.cmake/
+
+# Dependencies
+vcpkg_installed/
+vcpkg/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln
+
+# Logs
+*.log
